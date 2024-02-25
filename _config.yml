@@ -57,7 +57,7 @@ plugins:
 oscailte:
   posts_url:
   social:
-    github: Fanshawe-IT-Social-And-Learning-Club
+    github: IT-Social-And-Learning-Club
   strings:
     skip_to_main_content: "Skip to main content"
     x_minute_read: "$x$ minute read"
