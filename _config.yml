@@ -18,16 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: IT Social And Learning Club
+description: >- # used by seo meta and the atom feed
+  Fanshawe IT Social And Learning Club is to bring the IT School together with the goal in mind to assist and collaborate with peers from all programs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 #theme: minima
@@ -54,3 +49,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+github:
+  username: IT-Social-And-Learning-Club
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Fanshawe IT Club
+  email: it.slc2023@gmail.com # change to your email address
+  links:
+    - https://github.com/IT-Social-And-Learning-Club # change to your github homepage
+
+comments:
+  # Global switch for the post comment system. Keeping it empty means disabled.
+  provider: utterances # [disqus | utterances | giscus]
+  # utterances settings › https://utteranc.es/
+  utterances:
+    repo: IT-Social-And-Learning-Club/pages # <gh-username>/<repo>
+    issue_term: pathname # < url | pathname | title | ...>
