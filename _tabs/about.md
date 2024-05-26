@@ -5,16 +5,17 @@ permalink: /about/
 icon: fas fa-info-circle
 order: 4
 ---
+# About Us
+The IT Social and Learning Club is a student lead group for the IT student community while attending Fanshawe College.  
+  
+We aim to be a place where students can come together for help with school, learn new things, attend social events, and a place to network with students past and present. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Join Us
+Want to learn more or join? Connect with us via [**Discord**](https://discord.gg/vCTzpmjD2B)!  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Disclaimer
+The IT Social Learning club is not affiliated with Fanshawe College.  
+  
+It is a student run organization create by and for students attending Fanshawe College.  
+  
+The github site is intended to be used as a static backend of the site. Pushes are controlled and monitored. Malicous actors will be reported and restricted from making contributions.  
