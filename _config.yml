@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IT Social And Learning Club
+tagline: Bring the together with the goal in mind to assist and collaborate with peers from all programs. # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   Fanshawe IT Social And Learning Club is to bring the IT School together with the goal in mind to assist and collaborate with peers from all programs.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -61,6 +62,8 @@ social:
   links:
     - https://github.com/IT-Social-And-Learning-Club # change to your github homepage
 
+avatar: "assets/img/avatar.png"
+
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: utterances # [disqus | utterances | giscus]
@@ -68,3 +71,13 @@ comments:
   utterances:
     repo: IT-Social-And-Learning-Club/pages # <gh-username>/<repo>
     issue_term: pathname # < url | pathname | title | ...>
+
+pwa:
+  enabled: true # the option for PWA feature (installable)
+  cache:
+    enabled: true # the option for PWA offline cache
+    # Paths defined here will be excluded from the PWA cache.
+    # Usually its value is the `baseurl` of another website that
+    # shares the same domain name as the current website.
+    deny_paths:
+      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
