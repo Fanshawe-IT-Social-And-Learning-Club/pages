@@ -78,7 +78,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: IT-Social-And-Learning-Club/pages # <gh-username>/<repo>
+    repo: it-social-and-learning-club/pages # <gh-username>/<repo>
     repo_id: R_kgDOLXzAIg
     category: Announcements
     category_id: DIC_kwDOLXzAIs4CfnFt
