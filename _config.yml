@@ -118,8 +118,8 @@ comments:
   giscus:
     repo: "itslc2023/itslc2023.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOLXzAIg"
-    category: "Announcements"
-    category_id: "DIC_kwDOLXzAIs4CfnFt"
+    category: "General"
+    category_id: "DIC_kwDOLXzAIs4CfnFu"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
