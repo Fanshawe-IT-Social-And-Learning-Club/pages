@@ -68,11 +68,18 @@ avatar: "assets/img/avatar.png"
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: utterances # [disqus | utterances | giscus]
-  # utterances settings › https://utteranc.es/
-  utterances:
+  provider: giscus # [disqus | utterances | giscus]
+  # Giscus options › https://giscus.app
+  giscus:
     repo: IT-Social-And-Learning-Club/pages # <gh-username>/<repo>
-    issue_term: pathname # < url | pathname | title | ...>
+    repo_id: R_kgDOLXzAIg
+    category: Announcements
+    category_id: DIC_kwDOLXzAIs4CfnFt
+    mapping: pathname # optional, default to 'pathname'
+    strict: 0 # optional, default to '0'
+    input_position: bottom # optional, default to 'bottom'
+    lang: en # optional, default to the value of `site.lang`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 pwa:
   enabled: true # the option for PWA feature (installable)
