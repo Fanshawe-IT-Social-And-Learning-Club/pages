@@ -34,4 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Chirpy theme
 # https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide
-gem "jekyll-theme-chirpy", "~> 6.5.5"
+gem "jekyll-theme-chirpy", "~> 7.0"
