@@ -23,21 +23,21 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "itslc2023.github.io"
 
 github:
-  username: IT-Social-And-Learning-Club # change to your github username
+  username: itslc2023 # change to your github username
 
 discord:
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Fanshawe IT Club
+  name: IT Social And Learning Club
   email: it.slc2023@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/IT-Social-And-Learning-Club # change to your github homepage
+    - https://github.com/itslc2023 # change to your github homepage
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your twitter homepage
     # - https://www.facebook.com/username
@@ -116,7 +116,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: it-social-and-learning-club/pages # <gh-username>/<repo>
+    repo: itslc2023/itslc2023.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLXzAIg
     category: Announcements
     category_id: DIC_kwDOLXzAIs4CfnFt
