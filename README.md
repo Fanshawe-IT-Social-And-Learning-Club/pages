@@ -16,7 +16,7 @@ The IT Social and Learning Club is a student lead group for the IT student commu
 
 Want to learn more or join? Connect with us below:
 
-* [Website](https://it-social-and-learning-club.github.io/pages/)
+* [Website](https://itslc2023.github.io/)
 * [Discord](https://discord.gg/vCTzpmjD2B)
 
 ## Disclaimer
