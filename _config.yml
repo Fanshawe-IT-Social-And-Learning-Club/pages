@@ -68,7 +68,14 @@ avatar: "assets/img/avatar.png"
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: giscus # [disqus | utterances | giscus]
+  active: giscus # [disqus | utterances | giscus]
+  # The provider options are as follows:
+  disqus:
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  # utterances settings › https://utteranc.es/
+  utterances:
+    repo: # <gh-username>/<repo>
+    issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: IT-Social-And-Learning-Club/pages # <gh-username>/<repo>
