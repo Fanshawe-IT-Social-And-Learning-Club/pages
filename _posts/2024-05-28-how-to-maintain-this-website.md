@@ -16,13 +16,13 @@ This is website is built with:
 - [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 # Documentation & Links
-https://docs.github.com/en/pages/quickstart  
-https://jekyllrb.com/docs/  
-https://jekyllrb.com/docs/structure/  
-https://github.com/cotes2020/jekyll-theme-chirpy/wiki  
-https://github.com/cotes2020/chirpy-starter  
-https://giscus.app/  
-https://github.com/cotes2020/chirpy-starter/blob/main/_config.yml#L108  
+[GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)  
+[Jekyll Quickstart](https://jekyllrb.com/docs/)  
+[Jekyll Structure](https://jekyllrb.com/docs/structure/)  
+[jekyll-theme-chirpy Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)  
+[chirpy-starter](https://github.com/cotes2020/chirpy-starter)  
+[giscus](https://giscus.app/)  
+[giscus config example](https://github.com/cotes2020/chirpy-starter/blob/main/_config.yml#L108)  
 
 # GitHub Pages & Jekyll
 If you don't know, GitHub Pages is a service provide for free to host static website built with Jekyll.  
@@ -35,7 +35,7 @@ For how to use Jekyll or local testing, please follow [How to contribute]().
 # Theme
 ## Chirpy
 We use Chirpy as our theme for easy spin up and... idk it just looks good.  
-They recommend using [https://github.com/cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter), this is due to easy upgrade and it isolates irrelevant project files.
+They recommend using [chirpy-starter](https://github.com/cotes2020/chirpy-starter), this is due to easy upgrade and it isolates irrelevant project files.
 
 ## Side Panel
 All the tabs pages/permalink pages on the side panel are located in the `_tab` folder.
@@ -45,10 +45,10 @@ I have made [a small modification](https://github.com/itslc2023/itslc2023.github
 This requires adding [Font Awesome](https://fontawesome.com/icons/discord?f=brands&s=solid) icon into the `_data/contact.yml` file, plus the link to discord. Additionally, adding just a blank config into the `_config.yml`.
 
 ## Favicon
-https://chirpy.cotes.page/posts/customize-the-favicon/
+[Chirpy Doc customize-the-favicon](https://chirpy.cotes.page/posts/customize-the-favicon/)
 
 ## Theme update
-https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide
+[Chirpy Doc Upgrade-Guide](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide)
 
 ## Changing the Theme
 > Oh boy, what have we decide...
@@ -59,7 +59,7 @@ Please follow the new theme's documentation for this.
 # Custom Domain
 Custom Domain is doable, but not implemented to our website at the moment.  
 If we'd like in the future, purchase a domain and follow the documentation below.  
-https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+[GitHub Pages Doc custom-domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
 # Ruby Error
 The website is automatically built with GitHub workflow and the `.yml` file is located at `.github/workflows/jekyll.yml`.  
