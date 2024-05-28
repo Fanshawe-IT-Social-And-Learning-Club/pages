@@ -1,26 +1,61 @@
-<div align="center">
+# Chirpy Starter
 
-# IT Social and Learning Club
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-<img src="assets/img/avatar.png" alt="Logo" height=300px>
+When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
+`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
+from the theme's gem. If you have ever installed this theme gem, you can use the command
+`bundle info --path jekyll-theme-chirpy` to locate these files.
 
-Learn, Engagte, Develop Connections
+The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
+able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-</div>
+To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
+Jekyll site. The following is a list of targets:
 
-## About Us
+```shell
+.
+├── _config.yml
+├── _plugins
+├── _tabs
+└── index.html
+```
 
-The IT Social and Learning Club is a student lead group for the IT student community while attending Fanshawe College. We aim to be a place where students can come together for help with school, learn new things, attend social events, and a place to network with students past and present.
+To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
+latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-## Connect with Us
+## Prerequisites
 
-Want to learn more or join? Connect with us below:
+Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
+the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
-* [Website](https://itslc2023.github.io/)
-* [Discord](https://discord.gg/vCTzpmjD2B)
+## Installation
 
-## Disclaimer
+Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
+`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
 
-The IT Social Learning club is not affiliated with Fanshawe College. It is a student run organization create by and for students attending Fanshawe College.
+Then clone it to your local machine and run:
 
-The github site is intended to be used as a static backend of the site. Pushes are controlled and monitored. Malicous actors will be reported and restricted from making contributions
+```console
+$ bundle
+```
+
+## Usage
+
+Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+
+## Contributing
+
+The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
+If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
+
+## License
+
+This work is published under [MIT][mit] License.
+
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[use-template]: https://github.com/cotes2020/chirpy-starter/generate
+[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE

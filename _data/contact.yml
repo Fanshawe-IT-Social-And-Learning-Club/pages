@@ -3,9 +3,8 @@
 - type: github
   icon: "fab fa-github"
 
-- type: discord
-  icon: "fab fa-discord"
-  url: https://discord.gg/vCTzpmjD2B
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
@@ -14,11 +13,7 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-
 # Uncomment and complete the url below to enable more contact options
-#
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
@@ -31,7 +26,3 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
-#
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
