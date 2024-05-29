@@ -2,7 +2,8 @@
 layout: post
 title: How to Maintain This Website
 date: 2024-05-28 17:45:14 −0500
-categories: Maintainance
+categories: How-To Jekyll
+tags: howto jekyll github-page
 author: Colgrave34
 pin: true
 ---
