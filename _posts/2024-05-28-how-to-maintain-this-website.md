@@ -31,7 +31,7 @@ Jekyll on the other hand is a static website generator, it has the ability to co
 This makes adding content dramatically easy with the help of git.
 
 ## Jekyll
-For how to use Jekyll or local testing, please follow [How to contribute]().
+For how to use Jekyll or local testing, please follow [How to contribute](/posts/how-to-contribute/).
 
 ## Theme
 ### Chirpy
