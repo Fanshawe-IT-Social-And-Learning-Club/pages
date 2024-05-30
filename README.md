@@ -24,3 +24,7 @@ Want to learn more or join? Connect with us below:
 The IT Social Learning club is not affiliated with Fanshawe College. It is a student run organization create by and for students attending Fanshawe College.
 
 The github site is intended to be used as a static backend of the site. Pushes are controlled and monitored. Malicous actors will be reported and restricted from making contributions
+
+## License
+Website content is under [CC BY 4.0 Deed Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) Creative Commons license.  
+Website code is under [MIT License](https://opensource.org/license/mit).
