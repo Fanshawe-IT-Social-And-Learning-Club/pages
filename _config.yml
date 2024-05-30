@@ -16,10 +16,10 @@ timezone: America/Toronto
 
 title: IT Social And Learning Club # the main title
 
-tagline: Bring the together with the goal in mind to assist and collaborate with peers from all programs. # it will display as the sub-title
+tagline: A student lead group for the IT student community while attending Fanshawe College.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  IT Social And Learning Club is to bring the IT School together with the goal in mind to assist and collaborate with peers from all programs.
+  A student lead group for the IT student community while attending Fanshawe College. 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
