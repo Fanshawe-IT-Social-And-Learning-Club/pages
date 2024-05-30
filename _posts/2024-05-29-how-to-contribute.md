@@ -8,8 +8,9 @@ author: Colgrave34
 pin: true
 ---
 ## Welcome!
-Hi, to whom is reading this post, I'm glad and welcoming you to want to maintain this website.  
-This document links to most of the stuff about how this website works, built and how to keep it working. I can't cover every single details, if you have a question, just ask me on Discord.
+Hi, to whom is reading this post, I'm glad and welcoming you to want to contribute to this website.  
+This document is mostly about how to add a new post to the site and how to test it locally.  
+I can't cover every single details, if you have a question, just ask me on Discord.
 
 ## Documentation & Links
 [Jekyll Quickstart](https://jekyllrb.com/docs/)  
@@ -18,7 +19,7 @@ This document links to most of the stuff about how this website works, built and
 
 ## GitHub Pages & Jekyll
 If you don't know, GitHub Pages is a service provide for free to host static website built with Jekyll.  
-Jekyll on the other hand is a static website generator, it has the ability to cover markdown files to HTML. On top of that, Jekyll also have a ton of themes to choose from.  
+Jekyll on the other hand is a static website generator, it has the ability to cover Markdown files to HTML. On top of that, Jekyll also have a ton of themes to choose from.  
 This makes adding content dramatically easy with the help of git.
 
 ## Install Jekyll

@@ -27,7 +27,7 @@ This is website is built with:
 
 ## GitHub Pages & Jekyll
 If you don't know, GitHub Pages is a service provide for free to host static website built with Jekyll.  
-Jekyll on the other hand is a static website generator, it has the ability to cover markdown files to HTML. On top of that, Jekyll also have a ton of themes to choose from.  
+Jekyll on the other hand is a static website generator, it has the ability to cover Markdown files to HTML. On top of that, Jekyll also have a ton of themes to choose from.  
 This makes adding content dramatically easy with the help of git.
 
 ## Jekyll
