@@ -17,6 +17,15 @@ I can't cover every single details, if you have a question, just ask me on Disco
 [Jekyll Structure](https://jekyllrb.com/docs/structure/)  
 [jekyll-theme-chirpy Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)  
 
+## Licenses and Disclaimer
+Everything you contribute to this website is under [CC BY 4.0 Deed Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) Creative Commons license.  
+Everyone is free to:
+- Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Please understand the license before contribute. 
+
 ## GitHub Pages & Jekyll
 If you don't know, GitHub Pages is a service provide for free to host static website built with Jekyll.  
 Jekyll on the other hand is a static website generator, it has the ability to cover Markdown files to HTML. On top of that, Jekyll also have a ton of themes to choose from.  
